@@ -12,6 +12,11 @@ This is a Django-based web application for uploading and managing videos. The ap
 - Like functionality for videos
 - Responsive design using Tailwind CSS
 
+## Demonstration VIdeo
+<a href="https://drive.google.com/drive/folders/1_nGPxHJo7mDYOQnvX_47ig5WS9g6U0fP?usp=sharing">
+<img src="https://i.imgur.com/m5Mn8su.png" alt="image_name png" /></a>
+https://drive.google.com/drive/folders/1_nGPxHJo7mDYOQnvX_47ig5WS9g6U0fP?usp=sharing
+
 ## Technologies Used
 
 - **Backend:** Django, Django REST Framework
